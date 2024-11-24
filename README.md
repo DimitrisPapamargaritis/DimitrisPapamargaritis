@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimitris</h1>
-<h3 align="left">I am currently pursuing a degree in Computer Science at the University of Thessaly. I have a strong interest in collaborative work and actively engage in group projects and research teams to further enhance my skills and contribute to innovative solutions. In addition to my academic pursuits, I have worked on projects outside the university, focusing on Arduino programming, web development, and front-end design.</h3>
+<h3 align="left">I am currently pursuing a degree in Computer Science at the University of Thessaly in Greece. I have a strong interest in collaborative work and actively engage in group projects and research teams to further enhance my skills and contribute to innovative solutions. In addition to my academic pursuits, I have worked on projects outside the university, focusing on Arduino programming, web development, and front-end design.</h3>
 
 - 📫 How to reach me **dimitpapama10@gmail.com**
 
@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/dimitris-papamargaritis-4065a028b/" target="blank"><img align="center", padding-left="10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkeduser" height="30" width="40" /></a>
 </p>
-
+<hr>
 <h3 align="left">:hammer: Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -27,3 +27,4 @@
   <hr width="100%;">
   
 <h3 align="left">👨‍💻 Previous Projects:</h3>
+<a href="https://2023.igem.wiki/thessaly/"> <img src="![image](https://github.com/user-attachments/assets/8b30f04e-20c7-408c-8386-3205d0e4cc99)" alt="ophaelia" width="40" height="50"/> </a> 
