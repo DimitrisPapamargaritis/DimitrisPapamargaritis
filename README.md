@@ -27,4 +27,4 @@
   <hr width="100%;">
   
 <h3 align="left">👨‍💻 Previous Projects:</h3>
-<a href="https://2023.igem.wiki/thessaly/"> <img src="![image](https://github.com/user-attachments/assets/8b30f04e-20c7-408c-8386-3205d0e4cc99)" alt="ophaelia" width="40" height="50"/> </a> 
+<a href="https://2023.igem.wiki/thessaly/"> <img src="https://static.igem.wiki/teams/4624/wiki/logo-transparent.png" alt="ophaelia" width="40" height="50"/> </a> 
